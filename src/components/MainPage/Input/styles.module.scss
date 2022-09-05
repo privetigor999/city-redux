@@ -1,0 +1,30 @@
+.header {
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  input {
+    width: 300px;
+  }
+  .inputField {
+    position: relative;
+    input {
+      padding-right: 100px;
+    }
+  }
+  h5 {
+    b {
+      color: rgb(130, 165, 198);
+    }
+  }
+  h6 {
+    b {
+      color: rgb(130, 165, 198);
+    }
+  }
+}
+.warning {
+  text-align: center;
+  color: red;
+}

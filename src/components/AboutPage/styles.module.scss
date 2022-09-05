@@ -1,0 +1,22 @@
+.aboutPage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.aboutBlock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 800px;
+  height: 500px;
+  background: #dddd;
+  margin: 10px 0;
+  border-radius: 10px;
+  border: 1px solid black;
+  padding: 0 20px;
+  p {
+    text-align: center;
+  }
+}

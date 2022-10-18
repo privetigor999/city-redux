@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/city-redux/static/css/main.0e59366f.css",
-    "main.js": "/city-redux/static/js/main.adadd44e.js",
+    "main.js": "/city-redux/static/js/main.508be5b3.js",
     "index.html": "/city-redux/index.html",
     "main.0e59366f.css.map": "/city-redux/static/css/main.0e59366f.css.map",
-    "main.adadd44e.js.map": "/city-redux/static/js/main.adadd44e.js.map"
+    "main.508be5b3.js.map": "/city-redux/static/js/main.508be5b3.js.map"
   },
   "entrypoints": [
     "static/css/main.0e59366f.css",
-    "static/js/main.adadd44e.js"
+    "static/js/main.508be5b3.js"
   ]
 }
